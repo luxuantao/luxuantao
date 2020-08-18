@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi~  我是luxuantao 👋 这是我的[博客](https://luxuantao.github.io/)
 
-<!--
-**luxuantao/luxuantao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education ⚡
 
-Here are some ideas to get you started:
++ **复旦大学(Fudan University) 软件工程 硕士 2020.09~2023.06**
++ **华东师范大学(East China Normal University) 计算机科学与技术 学士 2016.09~2020.06**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Internship 🌱
+
++ **字节跳动(Bytedance) 上海抖音部门 测试开发 2019.07~2019.12**
+
+### Interests 😄
+
++ **知识图谱(Knowledge Graph)**
++ **问答系统(Question Answering)**
++ **自然语言处理(Natural Language Processing)**
