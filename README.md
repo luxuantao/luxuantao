@@ -21,5 +21,5 @@
 
 <a href="https://github.com/luxuantao">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luxuantao&layout=compact&card_width=400" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luxuantao&layout=compact" />
 </a>
