@@ -12,7 +12,6 @@
 ### Interests 😄
 
 + **知识图谱(Knowledge Graph)**
-+ **问答系统(Question Answering)**
 + **自然语言处理(Natural Language Processing)**
 
 <a href="https://github.com/luxuantao">
