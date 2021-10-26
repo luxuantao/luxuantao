@@ -15,7 +15,7 @@
 + **2021 iFLYTEK 科大讯飞AI 开发者大赛-试题标签预测挑战赛 季军**
 + **2021 DIGIX 华为全球校园AI 算法精英大赛-基于多模型迁移预训练文章质量判别 季军**
 + **2021 CCKS 华为-面向通信领域的事件共指消解任务 亚军**
-+ 
+
 <a href="https://github.com/luxuantao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luxuantao&show_icons=true&include_all_commits=true" alt="luxuantao's github stats" />
 </a>
