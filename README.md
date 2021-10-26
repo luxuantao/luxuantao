@@ -18,7 +18,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luxuantao&show_icons=true&include_all_commits=true" alt="luxuantao's github stats" />
 </a>
 
-<a href="https://github.com/luxuantao">
+<!-- <a href="https://github.com/luxuantao">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luxuantao&layout=compact" />
 </a>
+ -->
