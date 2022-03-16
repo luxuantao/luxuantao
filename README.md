@@ -10,7 +10,7 @@
 + **字节跳动(Bytedance) 抖音-互娱研发 测试开发工程师 2019.07~2019.12**
 
 ### Contests 😄
-+ 🥈 **2022 Kaggle - Feedback Prize - Evaluating Student Writing 银牌**
++ 🥈 **2022 Kaggle - Feedback Prize - Evaluating Student Writing 银牌 top 2%**
 + 🏅️ **2021 iFLYTEK 科大讯飞AI 开发者大赛-非标准化疾病诉求的简单分诊挑战赛 冠军**
 + 🥈 **2021 CCKS 华为-面向通信领域的事件共指消解任务 亚军**
 + 🥉 **2021 iFLYTEK 科大讯飞AI 开发者大赛-试题标签预测挑战赛 季军**
