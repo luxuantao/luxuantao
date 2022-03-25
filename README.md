@@ -7,7 +7,7 @@
 
 ### Internship 🌱
 
-+ **字节跳动(Bytedance) AI-LAB 自然语言处理工程师 2022.03~至今**
++ **字节跳动(Bytedance) AI-LAB NLP算法工程师 2022.03~至今**
 + **字节跳动(Bytedance) 抖音-互娱研发 测试开发工程师 2019.07~2019.12**
 
 ### Contests 😄
