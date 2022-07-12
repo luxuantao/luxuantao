@@ -1,9 +1,5 @@
 ## Hi~  我是luxuantao 👋 这是我的[博客](https://luxuantao.github.io/)
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/luxuantao/count.svg" />
-</p>
-
 ### Education ⚡
 
 + **复旦大学(Fudan University) 软件工程 硕士 2020.09~2023.06**
