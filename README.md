@@ -5,8 +5,9 @@
 + **复旦大学(Fudan University) 软件工程 硕士 2020.09~2023.06**
 + **华东师范大学(East China Normal University) 计算机科学与技术 学士 2016.09~2020.06**
 
-### Internship 🌱
+### Experience 🌱
 
++ **小红书(RED) 基础模型组 算法工程师 2023.06~至今**
 + **字节跳动(Bytedance) AI-LAB NLP算法工程师 2022.03~2023.05**
 + **字节跳动(Bytedance) 抖音-互娱研发 测试开发工程师 2019.07~2019.12**
 
