@@ -25,4 +25,4 @@
 + 🥉 **2021 DIGIX 华为全球校园AI 算法精英大赛 - 基于多模型迁移预训练文章质量判别 季军**
 
 ---
-<img src="/github-metrics.svg" alt="Metrics" width="70%" />
+<img src="/github-metrics.svg" alt="Metrics" width="60%" />
