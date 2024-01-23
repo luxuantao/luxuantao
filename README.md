@@ -24,4 +24,4 @@
 + 🥉 **2021 iFLYTEK 科大讯飞AI 开发者大赛 - 试题标签预测挑战赛 季军**
 + 🥉 **2021 DIGIX 华为全球校园AI 算法精英大赛 - 基于多模型迁移预训练文章质量判别 季军**
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%" />
+<img src="/github-metrics.svg" alt="Metrics" width="75%" />
