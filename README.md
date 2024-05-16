@@ -12,7 +12,7 @@
 + **字节跳动(Bytedance) 抖音-互娱研发 测试开发工程师 2019.07~2019.12**
 
 ### Contests 😄
-+ 🥉 **2024 2024数字中国创新大赛 - 少样本条件下的社交平台话题识别 季军**
++ 🥉 **2024 数字中国创新大赛 - 少样本条件下的社交平台话题识别 季军**
 + 🏆 **2022 人民网人工智能算法挑战赛 - 微博话题识别 冠军**
 + 🥈 **2022 Kaggle - Feedback Prize - Evaluating Student Writing 银牌**
 + 🥈 **2022 Kaggle - U.S. Patent Phrase to Phrase Matching 银牌**
