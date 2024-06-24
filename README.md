@@ -9,16 +9,6 @@
 + **字节跳动(Bytedance) AI-LAB NLP算法工程师 2022.03~2023.05**
 + **字节跳动(Bytedance) 抖音-互娱研发 测试开发工程师 2019.07~2019.12**
 
-### Paper ✨
-+ **Conference**
-  - COLING 2022 - Parsing Natural Language into Propositional and First-Order Logic with Dual Reinforcement Learning
-  - DASFAA 2022 - Knowing What I Don't Know: A Generation Assisted Rejection Framework in Knowledge Base Question Answering
-+ **Journal**
-  - APIN 2022 - A Theoretical Analysis Based on Causal Inference and Single-instance Learning
-+ **Workshop**
-  - KDD 2024 - OAG Challenge - AQA
-  - CCKS 2021 - 基于对比学习的通信领域事件共指消解模型
-
 ### Contest 🔥
 + 🥉 **2024 数字中国创新大赛 - 少样本条件下的社交平台话题识别 季军**
 + 🏅️ **2024 KDD Cup - OAG Challenge - AQA Task TOP7**
