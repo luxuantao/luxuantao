@@ -1,9 +1,9 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Hi~ 我是luxuantao 这是我的[博客](https://luxuantao.github.io/)
 
 ### Daily Life
-+ 上班研究怎么让豆包变得更笨
-+ 下班研究怎么通过量化交易亏钱
-+ 梦想是成为宝可梦大师 ! ! !
++ **上班研究怎么让豆包变得更笨**
++ **下班研究怎么通过量化交易亏钱**
++ **梦想是成为宝可梦大师 ! ! !**
 
 ### Education ⚡
 + **复旦大学(Fudan University) 软件工程 硕士 2020.09~2023.06**
