@@ -10,7 +10,7 @@
 + **华东师范大学(East China Normal University) 计算机科学与技术 学士 2016.09~2020.06**
 
 ### Experience 🌱
-+ **字节跳动(Bytedance) Seed-豆包 AI搜索算法工程师 2025.07~至今**
++ **字节跳动(Bytedance) Seed-Product-Posttrain-Chat AI搜索算法工程师 2025.07~至今**
 + **小红书(RED) 社区搜索 AI搜索算法工程师 2023.06~2025.07**
 + **字节跳动(Bytedance) AI-LAB NLP算法工程师(实习) 2022.03~2023.05**
 
